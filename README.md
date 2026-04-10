@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Mario Roseno
 
-<!--
-**marioroseno/marioroseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Focado em desenvolvimento back-end  
+🚀 Em constante evolução na área de tecnologia  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- HTML e CSS
+- Git e GitHub
+
+## 📌 Projetos em destaque
+
+- Sistema Bancário em Python
+- Exercícios em Java
+- Projeto Web
+
+## 📫 Contato
+
+- Email: devmaroba@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marioroseno/
